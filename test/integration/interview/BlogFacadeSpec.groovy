@@ -30,4 +30,5 @@ class BlogFacadeSpec extends Specification {
         entry.content == 'content'
         entry.dateCreated == now
     }
+    // Test====
 }
